@@ -1,3 +1,3 @@
 # Deep Learning Data
 
-All of the data we use will be here. 
+Data used for the Investment Club's tutorials
