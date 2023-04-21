@@ -1,3 +1,3 @@
 # Deep Learning Data
 
-Data used for the Investment Club's tutorials
+Data used for the Investment Club's tutorials.
