@@ -1,3 +1,1 @@
-# Investment Club Data
-
-Data used for the Investment Club's tutorials.
+# Data for a variety of machine learning tasks
